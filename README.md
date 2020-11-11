@@ -4,7 +4,7 @@
 * a) Spring Web
 * b) MySQL Driver
 * c) Spring Data JPA
-* *Java version 11
+* Java version 11
 * 3)You'll additionally need Postman to send, recieve and check requests between server and client.
 
-* * This code contains implementation of Restful API in Spring. Includes GET POST DELETE commands to create API in spring.
+* This code contains implementation of Restful API in Spring. Includes GET POST DELETE commands to create API in spring.
